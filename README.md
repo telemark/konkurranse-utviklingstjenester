@@ -1,10 +1,10 @@
 # konkurranse-utviklingstjenester
 
-Repo for oppgaver til konkurranse om utviklingstjenester.
+Oppgaver til konkurranse om utviklingstjenester for Telemark fylkeskommune.
 
 ## Spørsmål
 
-Alle generelle spørsmål om oppgavene gjøres via issues på dette repoet.
+Alle generelle spørsmål om oppgavene gjøres via [issues](/issues).
 
 ## Levering
 
