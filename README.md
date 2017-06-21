@@ -2,6 +2,21 @@
 
 Repo for oppgaver til konkurranse om utviklingstjenester.
 
+## Spørsmål
+
+Alle generelle spørsmål om oppgavene gjøres via issues på dette repoet.
+
+## Levering
+
+Leveransen for alle oppgavene skal være et repo på GitHub og en kjørende utgave av løsningen.
+I konkurransebesvarelsen legger dere link til repo og løsning.
+Alle besvarelser skal legges på GitHub med helt åpne lisenser (f.eks. MIT)
+
+# Oppgaver
+- [Frontend](#Frontend)
+- [Backend](#Backend)
+- [Drift](#Drift)
+
 ## Frontend
 
 Lag en løsning som skal erstatte dagens [ansattsøk](http://apps.t-fk.no/ansatte).
@@ -14,11 +29,6 @@ Hvis ikke kan dere benytte dere av våre eksisterende APIer for [ansatte](http:/
 
 - [Designmanual](https://designmanual.t-fk.no)
 - [ansatte.json](data/ansatte.json)
-
-### Levering
-
-Leveransen skal være et repo på GitHub og en kjørende utgave av løsningen.
-I konkurransebesvarelsen legger dere link til repo og løsning.
 
 ## Backend
 
@@ -37,18 +47,13 @@ Definisjon av samme funksjonalitet er opp til dere.
 - [Designmanual](https://designmanual.t-fk.no)
 - [ansatte.json](data/ansatte.json)
 
-### Levering
-
-Leveransen skal være et repo på GitHub og en kjørende utgave av løsningen.
-I konkurransebesvarelsen legger dere link til repo og løsning.
-
 ## Drift
 
-Her er det to alternativer.
+Her er det to alternativer til oppgaveløsning.
 
 ### Alternativ 1
 
-Dersom dere leverer besvarelse på [Frontend](Frontend) og/eller [Backend](Backend) er oppgaven å sette opp et driftsmiljø for løsningene.
+Dersom dere leverer besvarelse på [Frontend](#Frontend) og/eller [Backend](#Backend) er oppgaven å sette opp et driftsmiljø for løsningen/løsningene.
 
 ### Alternativ 2
 
@@ -58,18 +63,13 @@ Dette er en løsning som består av frontend og mange bakenforliggende tjenester
 
 Det er også utviklet dummyløsninger for innlogging mm som kan brukes for å få et fungerende oppsett.
 
-### Ressurser
+#### Ressurser
 
 - [minelev-web](https://github.com/telemark/minelev-web) frontend for MinElev
 - [minelev-logs](https://github.com/telemark/minelev-logs) logs service for MinElev
 - [minelev-logs-stats](https://github.com/telemark/minelev-logs-stats) stats service for MinElev logs
 - [minelev-buddy](https://github.com/telemark/minelev-buddy) buddy service for MinElev
 - [minelev-buddy-dummy](https://github.com/telemark/minelev-buddy-dummy) dummy for buddy backend
-
-### Levering
-
-Leveransen skal være et repo på GitHub og en kjørende utgave av løsningen.
-I konkurransebesvarelsen legger dere link til repo og løsning.
 
 ## License
 
