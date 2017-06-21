@@ -53,7 +53,7 @@ Her er det to alternativer til oppgaveløsning.
 
 ### Alternativ 1
 
-Dersom dere leverer besvarelse på [Frontend](#frontend) og/eller [Backend](#backend) er oppgaven å sette opp et driftsmiljø for løsningen/løsningene.
+Dersom dere leverer besvarelser til [frontend](#frontend) og/eller [backend](#backend) er oppgaven å sette opp et driftsmiljø for løsningen/løsningene.
 
 ### Alternativ 2
 
@@ -70,6 +70,7 @@ Det er også utviklet dummyløsninger for innlogging mm som kan brukes for å f�
 - [minelev-logs-stats](https://github.com/telemark/minelev-logs-stats) stats service for MinElev logs
 - [minelev-buddy](https://github.com/telemark/minelev-buddy) buddy service for MinElev
 - [minelev-buddy-dummy](https://github.com/telemark/minelev-buddy-dummy) dummy for buddy backend
+- [micro-saml-mock](https://github.com/telemark/micro-saml-mock) dummy for Feide autentisering
 
 ## License
 
