@@ -34,13 +34,13 @@ Hvis ikke kan dere benytte dere av våre eksisterende APIer for [ansatte](http:/
 
 Lag en løsning for et API som skal kunne brukes av ny løsning for ansattsøk [ansattsøk](http://apps.t-fk.no/ansatte).
 
-Leverer dere også tilbud i kategorien frontend skal dere bruke dette APIet som kilde.
+Leverer du også tilbud i kategorien frontend skal dere bruke dette APIet som kilde.
 
-Dere står fritt til å designe APIet, men det skal kunne oppfylle de samme funksjonene som våre eksisterende APIer for [ansatte](http://ws.t-fk.no/help/persons.html) og [virksomheter](http://ws.t-fk.no/help/departments.html)
+Du står fritt til å designe APIet, men det skal kunne oppfylle de samme funksjonene som våre eksisterende APIer for [ansatte](http://ws.t-fk.no/help/persons.html) og [virksomheter](http://ws.t-fk.no/help/departments.html)
 
-Definisjon av samme funksjonalitet er opp til dere.
+Definisjon av samme funksjonalitet er opp til deg.
 
-[ansatte.json](data/ansatte.json) skal være kilden til APIet. Se for dere at dette er noe som oppdateres f.eks. en gang i døgnet.
+[ansatte.json](data/ansatte.json) skal være kilden til APIet. Se for deg at dette er noe som oppdateres f.eks. en gang i døgnet.
 
 ### Ressurser
 
@@ -53,7 +53,7 @@ Her er det to alternativer til oppgaveløsning.
 
 ### Alternativ 1
 
-Dersom dere leverer besvarelser til [frontend](#frontend) og/eller [backend](#backend) er oppgaven å sette opp et driftsmiljø for løsningen/løsningene.
+Dersom du også leverer besvarelse til [frontend](#frontend) og/eller [backend](#backend) er oppgaven å sette opp et driftsmiljø for løsningen/løsningene.
 
 ### Alternativ 2
 
