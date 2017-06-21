@@ -4,7 +4,7 @@ Oppgaver til konkurranse om utviklingstjenester for Telemark fylkeskommune.
 
 ## Spørsmål
 
-Alle generelle spørsmål om oppgavene gjøres via [issues](/issues).
+Alle generelle spørsmål om oppgavene gjøres via [issues](issues).
 
 ## Levering
 
