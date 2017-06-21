@@ -21,9 +21,9 @@ Alle besvarelser skal legges på GitHub med helt åpne lisenser (f.eks. MIT)
 
 Lag en løsning som skal erstatte dagens [ansattsøk](http://apps.t-fk.no/ansatte).
 
-Leverer dere også tilbud i kategorien [backend](#backend) skal dere bruke deres egenutviklede API.
+Leverer du også tilbud i kategorien [backend](#backend) skal du bruke ditt egenutviklede API.
 
-Hvis ikke kan dere benytte dere av våre eksisterende APIer for [ansatte](http://ws.t-fk.no/help/persons.html) og [virksomheter](http://ws.t-fk.no/help/departments.html) eller vedlagte [json](data/ansatte.json)
+Leverer du kun tilbud i frontend-kategorien kan du bruke våre eksisterende APIer for [ansatte](http://ws.t-fk.no/help/persons.html) og [virksomheter](http://ws.t-fk.no/help/departments.html) eller vedlagte [json](data/ansatte.json)
 
 ### Ressurser
 
